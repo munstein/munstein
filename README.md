@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - ✍️ Tech writer.
 <h3 align="left">👀 My other links:</h3>
 <p align="left">
-<a href="https://munstein.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="" height="30" width="40" /></a>   
-<a href="https://munstein.hashnode.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="" height="30" width="40" /></a>
+<a href="https://munstein.medium.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349449/medium.svg" alt="" height="30" width="40" /></a>   
+<a href="https://munstein.hashnode.dev/" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/munstein" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 </p>
 </br>
